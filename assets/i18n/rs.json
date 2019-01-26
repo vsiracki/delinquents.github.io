@@ -1,0 +1,131 @@
+{
+  "navbar": {
+    "vcard": "Virtualna poslovna karta"
+  },
+  "resume": {
+    "contact": {
+      "qrcode-description": "Web verzija CV:"
+    },
+    "education": {
+      "headline": "Školovanje",
+      "thesis-headline": "Teza\u00A0topic",
+      "formal": [
+        {
+          "university": "Visoka poslovna škola strukovnih studija - Novi Sad",
+          "faculty": "Informatika",
+          "title": "Diplomiran inženjer",
+          "thesis": "„Dizajniran i implementiran sistem baze podataka za Vojvođansku banku - osoblje i kaneclariju”"
+        }
+      ]
+    },
+    "interests": {
+      "headline": "Interesovanje",
+      "content": [
+        "Timske igre",
+        "Muzika",
+        "Video igre",
+        "Putovanja",
+        "Računarske komponente",
+        "Učestvovanje u video prenosima(Video igre,razvoj softwera)"
+      ]
+    },
+    "languages": {
+      "headline": "Jezici",
+      "content": [
+        {
+          "name": "Srpski",
+          "lvl": "Maternji"
+        },
+        {
+          "name": "Engleski",
+          "lvl": "B2/C1"
+        }
+      ]
+    },
+    "skills": {
+      "headline": "Vestine",
+      "others": {
+        "headline": "Druge veštine",
+        "content": [
+          "Design Patterns",
+          "Git",
+          "Maven",
+          "Postman"
+        ]
+      }
+    },
+    "summary": {
+      "headline": "Lični stav",
+      "content": "Ljubitelj video igara, sve vrste entuzijasta za putovanja i obožavalac pristojne kafe. Razvojni programer bez komercijalnog iskustva u izradi pozadinskih i frontend aplikacija sa modernim tehnologijama. Moj dugoročni profesionalni cilj je da steknem potrebne vestine."
+    },
+    "work-experience": {
+      "headline": "Radno iskustvo",
+      "technologies-headline": "Tehnologije",
+      "content": [
+        {
+          "position": "Web Developer",
+          "company": "nezaposlen",
+          "start": "",
+          "end": "",
+          "description": "Iskustvo u radu na različitim slojevima Spring MVC arhitekture kao što su Spring-Controller, klase servisa i repozitorijuma.Ekspertiza u razvoju SOAP, RESTful Vebservices i API-ja sa JSON-om. Rad u Hibernate Beans & HKL da mapiranju tabele i prenosu podatke iz baze podataka.Odgovoran  za kreiranje DAO CRUD metoda pomoću Hibernate i Springa.",
+          "technologies": [
+            "Java",
+            "Spring",
+            "MySQl",
+            "Scrum",
+            "Git",
+            "Maven",
+            "HTML/CSS",
+            "Angular",
+            "Bootstrap"
+          ]
+        },
+        {
+          "position": "Junior Java Developer",
+          "company": "IT ENGINE",
+          "start": "08.2018",
+          "end": "09.2018",
+          "description": "Radio sam na konceptima objekata, klasa i njihovih odnosa i kako ih modelirati implementirajući Hibernate ORM alat,takodje sam radio sa DAO uslugama i kontrolerima.I na kraju Angular Service koji komunicira sa RESTful uslugama u pozadini.",
+          "technologies": [
+            "Java",
+            "Spring",
+            "MySQL",
+            "Scrum",
+            "Git",
+            "Maven"
+          ]
+        }
+      ]
+    },
+
+    "download": {
+      "btn-print": "Stampaj CV!",
+      "btn-print-tooltip": "Zostanie dodana klauzula przetwarzania danych osobowych oraz kod QR",
+      "alternative": "lub",
+      "btn-download": "Pobierz CV w PDF!",
+      "btn-download-tooltip": "Pobierz wygenerowany wcześniej pdf, jeśli Twoja przeglądarka nie generuje poprawnie wydruku"
+    }
+  },
+  "portfolio": {
+    "headline": "Portfolio",
+    "projects": [
+      {
+        "title": "Resume.io",
+        "description": "Responsive, printable resume and personal website",
+        "stack": [
+          "Angular",
+          "Bootstrap"
+        ]
+      },
+      {
+        "title": "Resume.io",
+        "description": "Responsive, printable resume and personal website",
+        "stack": [
+          "Angular",
+          "Bootstrap"
+
+        ]
+      }
+    ]
+  }
+}

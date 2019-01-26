@@ -1,0 +1,127 @@
+{
+  "navbar": {
+    "vcard": "Virtual Business Card"
+  },
+  "resume": {
+    "contact": {
+      "qrcode-description": "Web version of resume:"
+    },
+    "education": {
+      "headline": "Education",
+      "thesis-headline": "Thesis\u00A0topic",
+      "formal": [
+        {
+          "university": "Visoka poslovna škola strukovnih studija - Novi Sad",
+          "faculty": "Computer Science",
+          "title": "Bachelor of Science",
+          "thesis": "Designed and implemented database system for Vojvodjanska bank - front office staff"
+        }
+      ]
+    },
+    "interests": {
+      "headline": "Interests",
+      "content": [
+        "Team sports",
+        "Music",
+        "Video games",
+        "Travelling",
+        "Computer hardware",
+        "Involved in video streams (Video games,Software development)"
+      ]
+    },
+    "languages": {
+      "headline": "Languages",
+      "content": [
+        {
+          "name": "Serbian",
+          "lvl": "native"
+        },
+        {
+          "name": "English",
+          "lvl": "B2/C1"
+        }
+      ]
+    },
+    "skills": {
+      "headline": "Skills",
+      "others": {
+        "headline": "Others",
+        "content": [
+          "Design Patterns",
+          "Git",
+          "Maven",
+          "Postman"
+        ]
+      }
+    },
+    "summary": {
+      "headline": "Personal Statement",
+      "content": "A video game lover, an all kind of travel enthusiast and an admirer of decent coffee. Software developer with no commercial experience in backend and frontend development with modern technologies. My long term professional goal is to acquire skills necessary to work as a software architect."
+    },
+    "work-experience": {
+      "headline": "Work Experience",
+      "technologies-headline": "Technology stack",
+      "content": [
+        {
+          "position": "Web Developer",
+          "company": "unemployed",
+          "start": "",
+          "end": "",
+          "description": " \tExperienced working on different layers of Spring MVC architecture such as Spring-Controller, service and repository classes.\tExpertise in developing SOAP,RESTful Webservices and APIs with JSON.\nConfiguring the data source in the hibernate configuration file.\n\tGood experience working on Hibernate Beans & HQL to map to tables and retrieve data from the database.\nResponsible to create DAO CRUD methods using Hibernate & Spring framework.\n",
+          "technologies": [
+            "Java",
+            "Spring",
+            "MySQl",
+            "Scrum",
+            "Git",
+            "Maven",
+            "HTML/CSS",
+            "Angular",
+            "Bootstrap"
+          ]
+        },
+        {
+          "position": "Junior Java Developer",
+          "company": "IT ENGINE",
+          "start": "08.2018",
+          "end": "09.2018",
+          "description": "Worked upon the concepts of Objects, Classes and their relationships and how to model them, implementing Hibernate ORM tool, worked whit DAOs, Services and Controllers, worked on Angular Service which interacts with RESTful services at backend.",
+          "technologies": [
+            "Java",
+            "Spring",
+            "MySQL",
+            "Scrum",
+            "Git",
+            "Maven"
+          ]
+        }
+      ]
+    },
+
+    "btn-print": "Print Resume!",
+    "btn-print-tooltip": "Data protection disclaimer and QR code will be added",
+    "download": {
+      "btn-print": "Print Resume!",
+      "btn-print-tooltip": "Data protection disclaimer and QR code will be added",
+      "alternative": "or",
+      "btn-download": "Download as PDF!",
+      "btn-download-tooltip": "Download pre-generated pdf if your browser have trouble with generating printable page"
+    }
+  },
+  "portfolio": {
+    "headline": "Portfolio",
+    "projects": [
+      {
+        "title": "Resume.io",
+        "description": "Responsive, printable resume and personal website",
+        "stack": [
+          "Angular",
+          "Bootstrap"
+        ]
+      },
+      {
+      }
+
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "resume": {
+    "contact": {
+      "first-name": "Veljko",
+      "last-name": "Siracki",
+      "job-position": "Java Web Developer",
+      "phone": "+0621907678",
+      "email": "v.velja@yahoo.com",
+      "github": "https://www.github.com/delinquents",
+      "github-simple": "https://www.github.com",
+      "linkedin": "https://www.linkedin.com/in/veljko-siracki-b8aa8860/?originalSubdomain=rs",
+      "linkedin-simple": "https://www.linkedin.com"
+    },
+    "skills": {
+      "main": [
+        {
+          "headline": "backend",
+          "content": [
+            {
+              "name": "Java",
+              "lvl": 3
+            },
+            {
+              "name": "Spring",
+              "lvl": 3
+            },
+            {
+              "name": "SQL",
+              "lvl": 3
+            }
+          ]
+        },
+        {
+          "headline": "frontend",
+          "content": [
+            {
+              "name": "HTML/CSS",
+              "lvl": 3
+            },
+            {
+              "name": "Angular",
+              "lvl": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "default-texts": {
+    "portfolio": "Portfolio",
+    "resume": "Curriculum Vitae",
+    "resume-short": "CV",
+    "github": "Github",
+    "linkedin": "Linkedin"
+  },
+  "portfolio": {
+    "projects": []
+  }
+}
